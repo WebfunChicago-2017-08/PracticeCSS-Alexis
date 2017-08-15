@@ -1,3 +1,6 @@
 Name: Alexis Gomez
 Project Goal: Master and Understand Git
 Favorite TV Show: Mad Men
+
+Favorite color: green
+Home City: Chicago
